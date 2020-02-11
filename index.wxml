@@ -1,0 +1,28 @@
+<van-cell title="展示弹出层" is-link bind:click="showBasic" />
+<van-popup show="{{ show.basic }}" close-on-click-overlay="{{false}}" custom-style="padding: 100px 50px" bind:close="hideBasic">
+  内容
+</van-popup>
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
+<van-field type="textarea" value="123456789123456789" />
